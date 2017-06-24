@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetryWhen", "RetryWhen\RetryWhen.csproj", "{94025BF7-3E42-49F2-9846-E956610C350F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetryWhenDemo", "RetryWhenDemo\RetryWhenDemo.csproj", "{DA0DD601-7F98-4C17-8F91-CC3A8B396B5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94025BF7-3E42-49F2-9846-E956610C350F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94025BF7-3E42-49F2-9846-E956610C350F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94025BF7-3E42-49F2-9846-E956610C350F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94025BF7-3E42-49F2-9846-E956610C350F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0DD601-7F98-4C17-8F91-CC3A8B396B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0DD601-7F98-4C17-8F91-CC3A8B396B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0DD601-7F98-4C17-8F91-CC3A8B396B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0DD601-7F98-4C17-8F91-CC3A8B396B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
